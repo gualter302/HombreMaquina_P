@@ -1,0 +1,30 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Visual Studio cache
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# Crash logs
+sysinfo.txt
+
+# Generated Unity meta files
+*.pidb
+*.suo
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+*.iml
